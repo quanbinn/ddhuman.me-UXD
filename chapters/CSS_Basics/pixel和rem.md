@@ -1,28 +1,10 @@
 # pixel和rem
 
-## pixel
-
-
-
-
-
-
-
-
-
-## rem
-
-
-
-
-
-
-
-
-
-
+### 1rem = 16px
 
 ## Reference
 
-1. [.class, #id from CSS](https://en.wikipedia.org/wiki/CSS)
-2. [**Responsive web design from Wikipedia**](https://en.wikipedia.org/wiki/Responsive_web_design)
+1. [Pixel](https://en.wikipedia.org/wiki/Pixel)
+2. [New units: rem, vw…](https://www.w3.org/Style/Examples/007/units.en.html#future)
+
+3. [**PX to REM converter**](https://nekocalc.com/px-to-rem-converter)

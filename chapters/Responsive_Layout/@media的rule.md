@@ -20,5 +20,9 @@
 
 ## Reference
 
-1. [.class, #id from CSS](https://en.wikipedia.org/wiki/CSS)
-2. [**Responsive web design from Wikipedia**](https://en.wikipedia.org/wiki/Responsive_web_design)
+1. [The @media rule](https://www.w3.org/TR/CSS2/media.html)
+2. [**CSSMediaRule**](https://developer.mozilla.org/en-US/docs/Web/CSS/@media)
+3. [**CSS\* @\*media\* *Rule\* - \*W3Schools**](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp)
+
+
+
