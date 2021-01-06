@@ -8,12 +8,12 @@
   
   selector1(elementORclassORid) {
     property1: value;
-		property2: value;
+	property2: value;
   }
   
   selector2(elementORclassORid)  {
     property1: value;
-		property2: value;
+	property2: value;
   }
 }
 ```
