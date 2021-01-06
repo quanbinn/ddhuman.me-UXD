@@ -1,4 +1,4 @@
 ```css
-body{font-size:25px; font-family:sans-serif;}
+body { font-size:2rem; font-family:sans-serif; }
 ```
 

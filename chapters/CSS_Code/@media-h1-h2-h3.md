@@ -1,6 +1,6 @@
 ```css
 @media (max-width: 1080px) {
-  body { font-size: 4rem; }
-}    
+  h1, h2, h3 {margin:2rem;}
+}
 ```
 

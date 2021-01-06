@@ -1,6 +1,6 @@
 ```css
 @media (max-width: 1080px) {
-  body { font-size: 4rem; }
-}    
+	input{ font-size: 4rem;margin:2rem;}
+}
 ```
 

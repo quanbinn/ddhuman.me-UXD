@@ -1,5 +1,3 @@
-
-
 # ddhuman.me-UXD (User Experience Design)
 
 ## CSS Basics
@@ -15,16 +13,38 @@
 
 ## CSS Code
 
-|            |               |                 |                |                |
-| :--------: | :-----------: | :-------------: | :------------: | :------------: |
-| **Laptop** |    [body]     |    [column]     |    [image]     |    [video]     |
-| **Mobile** | [@media-body] | [@media-column] | [@media-image] | [@media-video] |
+|               |                |                     |              |        |
+| :-----------: | :------------: | :-----------------: | :----------: | :----: |
+| **PC&Laptop** |     [body]     |    [h1, h2, h3]     |    [nav]     | [form] |
+|  **Mobile**   | [@media-body]  | [@media-h1, h2, h3] | [@media-nav] |        |
+|               |                |                     |              |        |
+| **PC&Laptop** |    [input]     |      [button]       |   [.list]    | [.col] |
+|  **Mobile**   | [@media-input] |   [@media-button]   |              |        |
+|               |                |                     |              |        |
+| **PC&Laptop** |    [.image]    |                     |              |        |
+|  **Mobile**   |                |                     |              |        |
 
 [body]: /chapters/CSS_Code/body.md
-[column]: /chapters/CSS_Code/column.md
-[image]: /chapters/CSS_Code/image.md
-[video]: /chapters/CSS_Code/video.md
+[h1, h2, h3]: /chapters/CSS_Code/h1-h2-h3.md
+[nav]: /chapters/CSS_Code/nav.md
+[form]: /chapters/CSS_Code/form.md
 [@media-body]: /chapters/CSS_Code/@media-body.md
-[@media-column]: /chapters/CSS_Code/@media-column.md
-[@media-image]: /chapters/CSS_Code/@media-image.md
-[@media-video]: /chapters/CSS_Code/@media-video.md
+[@media-h1, h2, h3]: /chapters/CSS_Code/@media-h1-h2-h3.md
+[@media-nav]: /chapters/CSS_Code/@media-nav.md
+
+
+[input]: /chapters/CSS_Code/input.md
+[button]: /chapters/CSS_Code/button.md
+[.list]: /chapters/CSS_Code/.list.md
+[.col]: /chapters/CSS_Code/.col.md
+[@media-input]: /chapters/CSS_Code/@media-input.md
+[@media-button]: /chapters/CSS_Code/@media-button.md
+
+
+
+[.image]: /chapters/CSS_Code/.image.md
+
+
+
+
+
