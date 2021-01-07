@@ -11,7 +11,6 @@
 - 23. 6英寸 (对角线) 。约 52cm （横）* 29.5cm（竖）。比例: 52 / 29.5 **约= 1.78**
 
 ## Reference
-
 1. [.class, #id from CSS](https://en.wikipedia.org/wiki/CSS)
 2. [**Responsive web design from Wikipedia**](https://en.wikipedia.org/wiki/Responsive_web_design)
 3. [iPhone 7 Plus - 技术规格](https://support.apple.com/kb/SP744?locale=zh_CN)
