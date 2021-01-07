@@ -1,4 +1,4 @@
-# iphone和laptop的显示屏幕的像素尺寸和实体尺寸
+# 计算出iphone和pc&laptop中text渲染时的实际像素值的公式
 
 
 

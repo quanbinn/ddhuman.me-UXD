@@ -1,10 +1,4 @@
-# 计算出iphone和laptop中text渲染时的实际像素值的公式
-
-
-
-
-
-
+# 计算出iphone和pc&laptop中image和video渲染前自适应高度的公式
 
 
 

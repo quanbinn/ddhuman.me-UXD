@@ -2,10 +2,10 @@
 
 ## CSS Basics
   - [pixel和rem](/chapters/CSS_Basics/pixel和rem.md)
-  - [iphone和laptop的显示屏幕的像素尺寸和实体尺寸](/chapters/CSS_Basics/iphone和laptop的显示屏幕的像素尺寸和实体尺寸.md)
-  - [计算出iphone和laptop中image和video渲染前自适应高度的公式](/chapters/CSS_Basics/计算出iphone和laptop中image和video渲染前自适应高度的公式.md)
-  - [确定iphone和laptop中text渲染后的实体尺寸](/chapters/CSS_Basics/确定iphone和laptop中text渲染后的实体尺寸.md)
-  - [计算出iphone和laptop中text渲染时的实际像素值的公式](/chapters/CSS_Basics/计算出iphone和laptop中text渲染时的实际像素值的公式.md)
+  - [iphone和pc&laptop的显示屏幕的像素尺寸和实体尺寸](/chapters/CSS_Basics/iphone和pc&laptop的显示屏幕的像素尺寸和实体尺寸.md)
+  - [计算出iphone和pc&laptop中image和video渲染前自适应高度的公式](/chapters/CSS_Basics/计算出iphone和pc&laptop中image和video渲染前自适应高度的公式.md)
+  - [确定iphone和pc&laptop中text渲染后的实体尺寸](/chapters/CSS_Basics/确定iphone和pc&laptop中text渲染后的实体尺寸.md)
+  - [计算出iphone和pc&laptop中text渲染时的实际像素值的公式](/chapters/CSS_Basics/计算出iphone和pc&laptop中text渲染时的实际像素值的公式.md)
 
 ## Responsive Layout
   - [@media的rule](/chapters/Responsive_Layout/@media的rule.md)
