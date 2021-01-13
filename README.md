@@ -35,8 +35,6 @@
 [@media-input]: /chapters/CSS_Code/@media-input.md
 [@media-button]: /chapters/CSS_Code/@media-button.md
 
-
-
 ## HTML View
 
 |             | Create | Read | Update | Delete |
