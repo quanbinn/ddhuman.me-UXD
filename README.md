@@ -1,4 +1,4 @@
-# ddhuman.me-UXD (User Experience Design)
+# ddhuman.me - User Experience Design
 
 ## CSS Basics
   - [pixel和rem](/chapters/CSS_Basics/pixel和rem.md)
@@ -9,7 +9,7 @@
 
 ## Responsive Layout
   - [@media的rule](/chapters/Responsive_Layout/@media的rule.md)
-  - [实现responsive layout中各网页元素的width占比](/chapters/Responsive_Layout/实现responsive_layout中各网页元素的width占比.md)
+  - [用flex实现image的自适应布局](/chapters/Responsive_Layout/用flex实现image的自适应布局.md)
 
 ## CSS Code
 
@@ -20,9 +20,6 @@
 |               |                |                     |              |        |
 | **PC&Laptop** |    [input]     |      [button]       |   [.list]    | [.col] |
 |  **Mobile**   | [@media-input] |   [@media-button]   |              |        |
-|               |                |                     |              |        |
-| **PC&Laptop** |    [.image]    |                     |              |        |
-|  **Mobile**   |                |                     |              |        |
 
 [body]: /chapters/CSS_Code/body.md
 [h1, h2, h3]: /chapters/CSS_Code/h1-h2-h3.md
@@ -35,14 +32,9 @@
 
 [input]: /chapters/CSS_Code/input.md
 [button]: /chapters/CSS_Code/button.md
-[.list]: /chapters/CSS_Code/.list.md
 [.col]: /chapters/CSS_Code/.col.md
 [@media-input]: /chapters/CSS_Code/@media-input.md
 [@media-button]: /chapters/CSS_Code/@media-button.md
-
-
-
-[.image]: /chapters/CSS_Code/.image.md
 
 
 
