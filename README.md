@@ -37,7 +37,7 @@
 
 
 
-## HTML VIEW
+## HTML View
 
 |             | Create | Read | Update | Delete |
 | :---------: | :-------: | :--------------: | :-------: | :-----: |
