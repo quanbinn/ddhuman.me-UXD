@@ -63,6 +63,7 @@
 |             |        |            |      |      |
 | :---------: | :-------: | :--------------: | :-------: | :-----: |
 |**Static webpage**| [home] | [category] |      |   |
+
 [home]: /chapters/html_view/home.md
 [category]: /chapters/html_view/category.md
 
