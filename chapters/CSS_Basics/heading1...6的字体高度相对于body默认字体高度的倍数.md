@@ -4,7 +4,7 @@
 
 ## 打开实验文件
 
-单击右方的[<h1> to <h6> + body](https://codepen.io/quanbinn/pen/BaRBgeE), 浏览器里会打开一个新的页面，里面有下面的代码段，如下图所示。
+单击右方的[heading 1 to heading 6 + body](https://codepen.io/quanbinn/pen/BaRBgeE), 浏览器里会打开一个新的页面，里面有下面的代码段，如下图所示。
 
 ```html
 <h1>这是heading 1</h1>
@@ -30,4 +30,4 @@
 
 ## Reference
 
-1. [HTML <h1> to <h6> Tags](https://www.w3schools.com/tags/tag_hn.asp)
+1. [HTML heading 1 to heading 6 Tags](https://www.w3schools.com/tags/tag_hn.asp)
