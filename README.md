@@ -6,6 +6,7 @@
   - [计算出iphone和pc&laptop中image和video渲染前自适应高度的公式](/chapters/CSS_Basics/计算出iphone和pc&laptop中image和video渲染前自适应高度的公式.md)
   - [确定iphone和pc&laptop中text渲染后的实体尺寸](/chapters/CSS_Basics/确定iphone和pc&laptop中text渲染后的实体尺寸.md)
   - [计算出iphone和pc&laptop中text渲染时的实际像素值的公式](/chapters/CSS_Basics/计算出iphone和pc&laptop中text渲染时的实际像素值的公式.md)
+  - [heading1...6的字体高度相对于body默认字体高度的倍数](/chapters/CSS_Basics/heading1...6的字体高度相对于body默认字体高度的倍数.md)
 
 ## Responsive Layout
   - [@media的rule](/chapters/Responsive_Layout/@media的rule.md)
